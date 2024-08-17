@@ -25,3 +25,5 @@ npm install bcrypt
 ## uji coba proses login
 ![image](https://github.com/user-attachments/assets/f75fe754-a78b-4e64-a879-3b7c74137872)
 
+## uji coba get data users
+![image](https://github.com/user-attachments/assets/5d9da521-e95f-4ebf-b91c-e8167865750e)
