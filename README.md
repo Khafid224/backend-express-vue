@@ -15,6 +15,8 @@ node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"
 ```bash
 npm install validator
 ```
+
+# Restful Api Auth
 ## Membuat Restful API untuk Register
 ```bash
 npm install bcrypt
@@ -25,5 +27,10 @@ npm install bcrypt
 ## uji coba proses login
 ![image](https://github.com/user-attachments/assets/f75fe754-a78b-4e64-a879-3b7c74137872)
 
+# Restful Api Users
 ## uji coba get data users
 ![image](https://github.com/user-attachments/assets/5d9da521-e95f-4ebf-b91c-e8167865750e)
+
+## uji coba insert data users
+![image](https://github.com/user-attachments/assets/fd01916a-77fb-4734-8b63-1b594b74febf)
+
