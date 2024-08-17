@@ -22,3 +22,6 @@ npm install bcrypt
 ## uji coba proses register
 ![image](https://github.com/user-attachments/assets/2ae7a1f9-8668-425b-bc38-f8caa838b575)
 
+## uji coba proses login
+![image](https://github.com/user-attachments/assets/f75fe754-a78b-4e64-a879-3b7c74137872)
+
