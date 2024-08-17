@@ -19,4 +19,6 @@ npm install validator
 ```bash
 npm install bcrypt
 ```
+## uji coba proses register
+![image](https://github.com/user-attachments/assets/2ae7a1f9-8668-425b-bc38-f8caa838b575)
 
