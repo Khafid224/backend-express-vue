@@ -34,3 +34,7 @@ npm install bcrypt
 ## uji coba insert data users
 ![image](https://github.com/user-attachments/assets/fd01916a-77fb-4734-8b63-1b594b74febf)
 
+## uji coba menampilkan data users
+![image](https://github.com/user-attachments/assets/5a84e602-2546-421b-b19c-7901a0a51db0)
+
+
