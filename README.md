@@ -37,4 +37,6 @@ npm install bcrypt
 ## uji coba menampilkan data users
 ![image](https://github.com/user-attachments/assets/5a84e602-2546-421b-b19c-7901a0a51db0)
 
+## uji coba delete users
+![image](https://github.com/user-attachments/assets/e5f0ab6a-a7bb-43ee-b6e7-6beaff36b33e)
 
