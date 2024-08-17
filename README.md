@@ -1,5 +1,4 @@
-## menjalankan project Vue.js
-![image](https://github.com/user-attachments/assets/59339ec6-ea25-48fa-a44a-82710db674fc)
+# menjalankan project Vue.js
 
 ## membuat schema table
 ```bash
@@ -16,3 +15,8 @@ node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"
 ```bash
 npm install validator
 ```
+## Membuat Restful API untuk Register
+```bash
+npm install bcrypt
+```
+
